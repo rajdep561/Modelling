@@ -1,1 +1,1 @@
-jupyter nbconvert Ensemble\ modelling.ipynb --to=pdf --TemplateExporter.exclude_input=True
+jupyter nbconvert Modelling.ipynb --to=pdf --TemplateExporter.exclude_input=True
